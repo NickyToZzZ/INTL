@@ -1,0 +1,14 @@
+{
+    "Index": {
+        "text": "Hello world!"
+    },
+    "NotFound": {
+        "text": "Page not found"
+    },
+    "Navigation": {
+        "text": "Home"
+    },
+    "Switcher": {
+        "text": "Change language"
+    }
+}

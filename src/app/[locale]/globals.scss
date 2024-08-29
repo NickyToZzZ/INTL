@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {}
+
+.header {
+    font-size: 68px;
+    font-weight: 700;
+    text-decoration: underline;
+}
+.text,
+.navig {
+    font-size: 24px;
+    font-weight: 400;
+    margin-right: 50px;
+}
